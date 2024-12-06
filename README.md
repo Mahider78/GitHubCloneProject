@@ -1,1 +1,2 @@
-This is the description of my repo
+This is the GitHubCloneProject. Objective of Task 2: Branching and Resolving Merge Conflicts
+Modification in main branch.
